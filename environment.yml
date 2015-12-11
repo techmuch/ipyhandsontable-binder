@@ -1,0 +1,6 @@
+name: ipyhandsontable-binder
+dependencies:
+- ipywidgets
+- pandas
+- notebook
+
